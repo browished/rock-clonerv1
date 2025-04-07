@@ -3,7 +3,6 @@
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Discord Selfbot](https://img.shields.io/badge/Discord%20Selfbot-%237289DA?style=for-the-badge&logo=discord)](https://discord.com)
 
-> [bold blue]Welcome to Rock V1 - Discord Server Cloner[/bold blue]
 
 This tool allows you to effortlessly **clone a Discord server's structure** from one server to another.
 
