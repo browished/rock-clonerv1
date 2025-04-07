@@ -1,0 +1,10 @@
+rich
+psutil
+pypresence
+discord.py-self
+colorama
+questionary
+requests
+inquirer
+pyfiglet
+aiohttp
