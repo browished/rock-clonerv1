@@ -25,7 +25,7 @@ Built with an **interactive terminal interface** powered by `questionary`, `inqu
 
 ## 🚀 How to Use
 
-1. Run `main.exe` *(or `main.py` if you're using source)*
+1. Run `cloner.exe` *(or `main.py` if you're using source)*
 2. Enter your **Discord user token**
 3. Provide:
    - **Source Server ID**
