@@ -3,6 +3,7 @@
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Discord Selfbot](https://img.shields.io/badge/Discord%20Selfbot-%237289DA?style=for-the-badge&logo=discord)](https://discord.com)
 
+> **Welcome to Rock V1 - Discord Server Cloner**
 
 This tool allows you to effortlessly **clone a Discord server's structure** from one server to another.
 
@@ -40,3 +41,17 @@ If you're running from `main.py`, install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
+---
+
+> ### ⚠️ Disclaimer  
+> This tool is for **educational purposes only**.  
+> Using self-bots on Discord violates their [Terms of Service](https://discord.com/terms).  
+> You are fully responsible for how you use this tool.
+
+---
+
+> ### 👤 Author  
+> Made with ❤️ by **DEVROCK**
+
