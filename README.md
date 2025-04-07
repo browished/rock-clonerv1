@@ -37,7 +37,7 @@ Built with an **interactive terminal interface** powered by `questionary`, `inqu
 
 ## 📦 Requirements (for source)
 
-If you're running from `main.py`, install dependencies:
+If you're running from `main.py`,Or Facing Issue In Exe install dependencies:
 
 ```bash
 pip install -r requirements.txt
