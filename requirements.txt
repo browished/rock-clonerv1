@@ -1,10 +1,2 @@
-rich
-psutil
-pypresence
-discord.py-self
-colorama
-questionary
-requests
-inquirer
-pyfiglet
-aiohttp
+rockcloner==1.0.1
+rich>=12.6.0
