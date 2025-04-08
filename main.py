@@ -2,6 +2,7 @@
 import sys
 import time
 import subprocess
+import os
 from rich.console import Console
 from rich.panel import Panel
 
